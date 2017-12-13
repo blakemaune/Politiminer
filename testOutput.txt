@@ -1,0 +1,500 @@
+donald-trump	republican	elections	Pants on Fire!
+javier-m-gonzales	democrat	homeland-security	Half-True
+reince-priebus	republican	homeland-security	Mostly True
+rand-paul	republican	foreign-policy	True
+blog-posting	none	fake-news	Pants on Fire!
+rudy-giuliani	republican	campaign-finance	True
+donald-trump	republican	homeland-security	Half-True
+donald-trump	republican	elections	False
+donald-trump	republican	nuclear	False
+blog-posting	none	elections	Pants on Fire!
+social-media	none	diversity	Pants on Fire!
+donald-trump	republican	elections	False
+barack-obama	democrat	elections	Half-True
+donald-trump	republican	economy	Mostly True
+tim-kaine	democrat	history	True
+hillary-clinton	democrat	taxes	True
+donald-trump	republican	elections	Pants on Fire!
+hillary-clinton	democrat	crime	Half-True
+donald-trump	republican	elections	False
+conservative-daily-post	organization	candidates-biography	Pants on Fire!
+donald-trump	republican	elections	False
+hillary-clinton	democrat	gays-and-lesbians	True
+donald-trump	republican	immigration	Half-True
+mike-pence	republican	economy	Half-True
+hillary-clinton	democrat	economy	Half-True
+donald-trump	republican	economy	Mostly False
+donald-trump	republican	elections	False
+hillary-clinton	democrat	guns	True
+donald-trump	republican	ethics	Half-True
+priorities-usa-action	democrat	immigration	Mostly True
+donald-trump	republican	economy	Mostly True
+sean-duffy	republican	elections	Pants on Fire!
+donald-trump	republican	homeland-security	Pants on Fire!
+robby-mook	democrat	criminal-justice	Mostly True
+hillary-clinton	democrat	congress	False
+hillary-clinton	democrat	children	Half-True
+donald-trump	republican	children	Half-True
+hillary-clinton	democrat	candidates-biography	Half-True
+newt-gingrich	republican	ethics	Half-True
+donald-trump	republican	federal-budget	Half-True
+donald-trump	republican	criminal-justice	Mostly False
+hillary-clinton	democrat	foreign-policy	True
+donald-trump	republican	polls	Pants on Fire!
+hillary-clinton	democrat	elections	Mostly True
+hillary-clinton	democrat	immigration	Half-True
+donald-trump	republican	elections	False
+hillary-clinton	democrat	bipartisanship	Half-True
+hillary-clinton	democrat	elections	Half-True
+donald-trump	republican	foreign-policy	Half-True
+kellyanne-conway	republican	foreign-policy	Mostly False
+donald-trump	republican	corporations	Mostly True
+donald-trump	republican	immigration	Half-True
+donald-trump	republican	foreign-policy	Half-True
+hillary-clinton	democrat	debt	Half-True
+donald-trump	republican	candidates-biography	False
+hillary-clinton	democrat	candidates-biography	Half-True
+donald-trump	republican	candidates-biography	False
+hillary-clinton	democrat	candidates-biography	Mostly True
+hillary-clinton	democrat	candidates-biography	True
+donald-trump	republican	candidates-biography	Pants on Fire!
+donald-trump	republican	candidates-biography	Half-True
+donald-trump	republican	economy	Mostly False
+hillary-clinton	democrat	elections	True
+donald-trump	republican	crime	Mostly False
+hillary-clinton	democrat	criminal-justice	Half-True
+hillary-clinton	democrat	crime	Mostly True
+donald-trump	republican	drugs	True
+mike-pence	republican	ethics	False
+hillary-clinton	democrat	bankruptcy	Pants on Fire!
+donald-trump	republican	taxes	Mostly False
+hillary-clinton	democrat	taxes	True
+donald-trump	republican	candidates-biography	False
+donald-trump	republican	corrections-and-updates	Pants on Fire!
+donald-trump	republican	economy	Mostly False
+mike-pence	republican	foreign-policy	Mostly False
+donald-trump	republican	sports	Pants on Fire!
+donald-trump	republican	foreign-policy	Mostly False
+hillary-clinton	democrat	history	True
+barack-obama	democrat	homeland-security	Mostly False
+donald-trump	republican	immigration	Mostly False
+hillary-clinton	democrat	taxes	True
+hillary-clinton	democrat	energy	False
+donald-trump	republican	candidates-biography	False
+donald-trump	republican	foreign-policy	False
+donald-trump	republican	corrections-and-updates	Mostly False
+donald-trump	republican	history	Mostly False
+hillary-clinton	democrat	foreign-policy	Mostly False
+donald-trump	republican	homeland-security	Mostly False
+donald-trump	republican	crime	Mostly True
+donald-trump	republican	candidates-biography	False
+hillary-clinton	democrat	foreign-policy	True
+donald-trump	republican	candidates-biography	Pants on Fire!
+donald-trump	republican	terrorism	Mostly False
+donald-trump	republican	health-care	False
+donald-trump	republican	history	Half-True
+hillary-clinton	democrat	health-care	True
+donald-trump	republican	candidates-biography	False
+tim-kaine	democrat	children	Half-True
+donald-trump	republican	candidates-biography	Mostly True
+gina-raimondo	democrat	economy	Mostly True
+tim-kaine	democrat	candidates-biography	Half-True
+mike-pence	republican	candidates-biography	False
+mike-pence	republican	candidates-biography	Half-True
+tim-kaine	democrat	foreign-policy	Mostly True
+tim-kaine	democrat	criminal-justice	True
+mike-pence	republican	nuclear	Mostly False
+mike-pence	republican	drugs	Mostly False
+tim-kaine	democrat	social-security	Mostly False
+tim-kaine	democrat	immigration	Half-True
+mike-pence	republican	candidates-biography	False
+tim-kaine	democrat	economy	Half-True
+mike-pence	republican	foreign-policy	Mostly False
+mike-pence	republican	job-accomplishments	Half-True
+tim-kaine	democrat	economy	Half-True
+hillary-clinton	democrat	economy	Mostly False
+barack-obama	democrat	federal-budget	Half-True
+chelsea-clinton	democrat	candidates-biography	Half-True
+donald-trump	republican	immigration	Mostly True
+blog-posting	none	candidates-biography	Pants on Fire!
+donald-trump	republican	crime	Mostly False
+donald-trump	republican	candidates-biography	False
+donald-trump	republican	foreign-policy	False
+donald-trump	republican	immigration	False
+donald-trump	republican	crime	Mostly False
+donald-trump	republican	energy	False
+donald-trump	republican	obama-birth-certificate	False
+hillary-clinton	democrat	candidates-biography	Mostly False
+hillary-clinton	democrat	candidates-biography	True
+hillary-clinton	democrat	debt	True
+donald-trump	republican	crime	True
+donald-trump	republican	candidates-biography	False
+hillary-clinton	democrat	civil-rights	Half-True
+donald-trump	republican	candidates-biography	Mostly True
+hillary-clinton	democrat	diversity	True
+donald-trump	republican	candidates-biography	False
+donald-trump	republican	candidates-biography	Mostly False
+hillary-clinton	democrat	candidates-biography	Mostly True
+hillary-clinton	democrat	economy	Mostly True
+donald-trump	republican	climate-change	Half-True
+donald-trump	republican	israel	Half-True
+michael-morell	none	candidates-biography	Mostly True
+donald-trump	republican	diversity	Pants on Fire!
+hillary-clinton	democrat	candidates-biography	Half-True
+donald-trump	republican	diversity	False
+hillary-clinton	democrat	economy	Half-True
+republican-national-committee-republican	republican	diversity	Mostly False
+hillary-clinton	democrat	diversity	True
+donald-trump	republican	immigration	Mostly True
+tim-kaine	democrat	abortion	Mostly True
+donald-trump	republican	obama-birth-certificate	Pants on Fire!
+donald-trump	republican	obama-birth-certificate	False
+donald-trump	republican	obama-birth-certificate	Full Flop
+john-fleming	republican	congress	False
+donald-trump	republican	children	Pants on Fire!
+kellyanne-conway	republican	candidates-biography	False
+hillary-clinton	democrat	candidates-biography	True
+hillary-clinton	democrat	candidates-biography	Mostly True
+donald-trump	republican	immigration	Mostly True
+blog-posting	none	candidates-biography	Pants on Fire!
+barack-obama	democrat	candidates-biography	True
+paul-wolfowitz	none	iraq	Mostly False
+donald-trump	republican	drugs	True
+william-weld	libertarian	polls	Half-True
+mike-pence	republican	immigration	Half-True
+blog-posting	none	candidates-biography	False
+hillary-clinton	democrat	government-regulation	Mostly False
+donald-trump	republican	immigration	False
+occupy-democrats	organization	bush-administration	Pants on Fire!
+donald-trump	republican	candidates-biography	Mostly False
+hillary-clinton	democrat	foreign-policy	Mostly True
+hillary-clinton	democrat	candidates-biography	Mostly True
+hillary-clinton	democrat	health-care	Mostly False
+donald-trump	republican	veterans	Mostly False
+donald-trump	republican	iraq	False
+rudy-giuliani	republican	federal-budget	False
+donald-trump	republican	candidates-biography	False
+donald-trump	republican	immigration	Half-True
+mike-pence	republican	candidates-biography	False
+mike-pence	republican	foreign-policy	True
+donald-trump	republican	children	Mostly False
+donald-trump	republican	crime	Half-True
+donald-trump	republican	immigration	Mostly True
+donald-trump	republican	immigration	Pants on Fire!
+donald-trump	republican	immigration	Mostly False
+hillary-clinton	democrat	ethics	Half-True
+donald-trump	republican	candidates-biography	Mostly True
+end-citizens-united	organization	candidates-biography	Half-True
+donald-trump	republican	crime	Pants on Fire!
+reince-priebus	republican	obama-birth-certificate	Half-True
+donald-trump	republican	immigration	Mostly False
+gary-johnson	libertarian	elections	False
+reince-priebus	republican	crime	Mostly True
+hillary-clinton	democrat	education	Mostly True
+donald-trump	republican	small-business	False
+donald-trump	republican	candidates-biography	Mostly False
+donald-trump	republican	diversity	Mostly False
+reince-priebus	republican	candidates-biography	False
+donald-trump	republican	economy	Mostly False
+jennifer-granholm	democrat	ethics	Mostly False
+donald-trump	republican	foreign-policy	Mostly False
+donald-trump	republican	pundits	Mostly False
+hillary-clinton	democrat	immigration	True
+tim-kaine	democrat	women	True
+donald-trump	republican	immigration	Mostly True
+joe-biden	democrat	legal-issues	Mostly False
+hillary-clinton	democrat	income	Pants on Fire!
+hillary-clinton	democrat	economy	Half-True
+gary-johnson	libertarian	drugs	True
+paul-manafort	republican	foreign-policy	Pants on Fire!
+rudy-giuliani	republican	terrorism	False
+gary-johnson	libertarian	drugs	Half-True
+donald-trump	republican	foreign-policy	False
+gary-johnson	libertarian	deficit	Mostly False
+donald-trump	republican	elections	Pants on Fire!
+paul-manafort	republican	candidates-biography	Half-True
+hillary-clinton	democrat	trade	Half-True
+tom-harkin	democrat	civil-rights	Mostly True
+hillary-clinton	democrat	nuclear	Mostly False
+donald-trump	republican	foreign-policy	Pants on Fire!
+donald-trump	republican	economy	Mostly False
+hillary-clinton	democrat	immigration	Half-True
+donald-trump	republican	energy	False
+viral-image	none	elections	False
+donald-trump	republican	candidates-biography	True
+howard-dean	democrat	federal-budget	Mostly True
+tim-kaine	democrat	candidates-biography	Half-True
+america-rising-now	organization	candidates-biography	Mostly False
+national-border-patrol-council	none	immigration	Mostly True
+donald-trump	republican	foreign-policy	False
+donald-trump	republican	taxes	Pants on Fire!
+paul-ryan	republican	abortion	Half-True
+donald-trump	republican	economy	False
+barack-obama	democrat	trade	Mostly True
+katrina-pierson	republican	iraq	Pants on Fire!
+donald-trump	republican	economy	Mostly True
+joe-biden	democrat	foreign-policy	False
+donald-trump	republican	debates	Pants on Fire!
+hillary-clinton	democrat	candidates-biography	Pants on Fire!
+donald-trump	republican	candidates-biography	Full Flop
+paul-manafort	republican	debates	False
+joaquin-castro	democrat	history	Half-True
+hillary-clinton	democrat	economy	Half-True
+hillary-clinton	democrat	foreign-policy	Mostly True
+hillary-clinton	democrat	foreign-policy	Mostly True
+hillary-clinton	democrat	candidates-biography	Mostly True
+hillary-clinton	democrat	economy	Half-True
+hillary-clinton	democrat	public-safety	True
+donald-trump	republican	economy	Full Flop
+karen-bass	democrat	immigration	Half-True
+barack-obama	democrat	polls	Mostly True
+barack-obama	democrat	crime	Mostly True
+joe-biden	democrat	economy	Mostly True
+tim-kaine	democrat	economy	Half-True
+tim-kaine	democrat	debt	Half-True
+chris-murphy	democrat	guns	True
+john-hutson	none	military	Mostly True
+bill-clinton	democrat	jobs	Half-True
+donald-trump	republican	patriotism	Half-True
+bill-clinton	democrat	candidates-biography	Mostly True
+bill-clinton	democrat	foreign-policy	Half-True
+hillary-clinton	democrat	history	Mostly False
+joseph-crowley	democrat	federal-budget	Half-True
+barbara-boxer	democrat	abortion	Half-True
+amy-klobuchar	democrat	crime	Mostly True
+bernie-s	independent	income	Half-True
+luis-gutierrez	democrat	immigration	Mostly True
+elizabeth-warren	democrat	debt	Half-True
+republican-national-committee-republican	republican	terrorism	True
+bernie-s	independent	economy	Mostly True
+bernie-s	independent	jobs	Mostly True
+michelle-obama	democrat	diversity	True
+kirsten-gillibrand	democrat	families	Mostly True
+tim-kaine	democrat	health-care	Mostly False
+donald-trump	republican	elections	False
+donald-trump-jr	republican	economy	Pants on Fire!
+hillary-clinton	democrat	education	False
+donald-trump	republican	immigration	Mostly True
+donald-trump	republican	history	True
+donald-trump	republican	taxes	Mostly False
+donald-trump	republican	economy	Mostly True
+donald-trump	republican	economy	True
+donald-trump	republican	candidates-biography	Mostly True
+donald-trump	republican	guns	False
+donald-trump	republican	taxes	Mostly True
+donald-trump	republican	trade	Half-True
+donald-trump	republican	foreign-policy	Half-True
+donald-trump	republican	welfare	True
+donald-trump	republican	immigration	Half-True
+donald-trump	republican	crime	Half-True
+donald-trump	republican	economy	Half-True
+mike-pence	republican	education	Half-True
+mike-pence	republican	candidates-biography	Mostly True
+mike-pence	republican	candidates-biography	Mostly False
+newt-gingrich	republican	immigration	Mostly True
+mike-pence	republican	economy	Half-True
+newt-gingrich	republican	corrections-and-updates	Mostly True
+phil-ruffin	republican	candidates-biography	False
+mitch-mcconnell	republican	foreign-policy	Mostly False
+donald-trump-jr	republican	health-care	False
+ron-johnson	republican	candidates-biography	Mostly True
+chris-christie	republican	foreign-policy	True
+chris-christie	republican	foreign-policy	Half-True
+mitch-mcconnell	republican	candidates-biography	Half-True
+paul-manafort	republican	campaign-advertising	False
+jeff-sessions	republican	immigration	False
+donald-trump	republican	elections	False
+mark-geist	newsmaker	foreign-policy	Mostly False
+jeff-sessions	republican	candidates-biography	Mostly False
+jeff-sessions	republican	economy	Mostly True
+reince-priebus	republican	elections	False
+reince-priebus	republican	children	False
+donald-trump	republican	candidates-biography	False
+barack-obama	democrat	guns	Mostly False
+mike-pence	republican	foreign-policy	False
+mike-pence	republican	economy	Half-True
+gary-johnson	libertarian	immigration	Mostly True
+hillary-clinton	democrat	debt	Half-True
+mike-rawlings	democrat	corrections-and-updates	Half-True
+cory-booker	democrat	crime	Mostly True
+viral-image	none	candidates-biography	Pants on Fire!
+donald-trump	republican	foreign-policy	Mostly False
+donald-trump	republican	campaign-finance	Mostly True
+hillary-clinton	democrat	corrections-and-updates	False
+america-rising-now	organization	candidates-biography	Mostly False
+barack-obama	democrat	economy	False
+barack-obama	democrat	trade	Mostly False
+elizabeth-warren	democrat	financial-regulation	Mostly True
+tom-cotton	republican	foreign-policy	Mostly True
+donald-trump	republican	candidates-biography	False
+hillary-clinton	democrat	taxes	True
+sean-hannity	none	foreign-policy	Mostly False
+michael-cohen	none	candidates-biography	Pants on Fire!
+donald-trump	republican	corrections-and-updates	Mostly False
+donald-trump	republican	jobs	Half-True
+donald-trump	republican	economy	Mostly False
+donald-trump	republican	candidates-biography	False
+hillary-clinton	democrat	economy	Mostly True
+hillary-clinton	democrat	economy	True
+hillary-clinton	democrat	economy	Half-True
+donald-trump	republican	religion	Pants on Fire!
+hillary-clinton	democrat	abortion	Mostly True
+donald-trump	republican	candidates-biography	Pants on Fire!
+donald-trump	republican	foreign-policy	False
+cory-booker	democrat	crime	Mostly True
+blog-posting	none	terrorism	False
+donald-trump	republican	immigration	Pants on Fire!
+donald-trump	republican	ethics	True
+donald-trump	republican	iraq	False
+hillary-clinton	democrat	candidates-biography	Mostly True
+priorities-usa-action	democrat	candidates-biography	Half-True
+donald-trump	republican	corrections-and-updates	Mostly False
+barack-obama	democrat	economy	Half-True
+donald-trump	republican	immigration	Mostly True
+donald-trump	republican	foreign-policy	Pants on Fire!
+charles-schumer	democrat	congress	Mostly True
+bernie-s	independent	agriculture	Half-True
+hillary-clinton	democrat	crime	Mostly True
+donald-trump	republican	families	Mostly True
+donald-trump	republican	immigration	False
+donald-trump	republican	foreign-policy	Mostly True
+viral-image	none	education	Mostly False
+gary-johnson	libertarian	congress	Mostly False
+donald-trump	republican	crime	Pants on Fire!
+donald-trump	republican	legal-issues	Mostly False
+mitch-mcconnell	republican	supreme-court	Mostly True
+hillary-clinton	democrat	economy	True
+hillary-clinton	democrat	foreign-policy	Mostly True
+hillary-clinton	democrat	military	Half-True
+hillary-clinton	democrat	candidates-biography	Half-True
+hillary-clinton	democrat	climate-change	Mostly True
+donald-trump	republican	foreign-policy	Mostly False
+donald-trump	republican	health-care	Half-True
+donald-trump	republican	candidates-biography	Pants on Fire!
+hillary-clinton	democrat	homeland-security	False
+donald-trump	republican	energy	Mostly False
+bernie-s	independent	cap-and-trade	Mostly True
+bernie-s	independent	elections	Mostly True
+donald-trump	republican	candidates-biography	Half-True
+hillary-clinton	democrat	bankruptcy	Mostly True
+donald-trump	republican	crime	Pants on Fire!
+donald-trump	republican	crime	False
+donald-trump	republican	immigration	Pants on Fire!
+hillary-clinton	democrat	bankruptcy	Mostly False
+hillary-clinton	democrat	corrections-and-updates	False
+hillary-clinton	democrat	candidates-biography	True
+hillary-clinton	democrat	history	True
+hillary-clinton	democrat	economy	Mostly True
+donald-trump	republican	workers	Mostly False
+bernie-s	independent	financial-regulation	Half-True
+priorities-usa-action	democrat	women	Pants on Fire!
+penny-pritzker	democrat	economy	Mostly True
+donald-trump	republican	guns	False
+donald-trump	republican	crime	Mostly False
+hillary-clinton	democrat	climate-change	Mostly True
+joe-biden	democrat	health-care	False
+donald-trump	republican	elections	False
+donald-trump	republican	taxes	False
+hillary-clinton	democrat	abortion	Mostly True
+bernie-s	independent	economy	Mostly False
+donald-trump	republican	candidates-biography	Pants on Fire!
+bernie-s	independent	elections	Mostly True
+donald-trump	republican	polls	Pants on Fire!
+ted-cruz	republican	economy	Half-True
+ted-cruz	republican	abortion	Mostly False
+facebook-posts	none	history	Pants on Fire!
+donald-trump	republican	foreign-policy	Half-True
+donald-trump	republican	energy	False
+donald-trump	republican	foreign-policy	False
+john-kirby	democrat	foreign-policy	False
+new-day-america	organization	corrections-and-updates	Half-True
+hillary-clinton	democrat	drugs	Mostly False
+ted-cruz	republican	candidates-biography	Mostly False
+ted-cruz	republican	elections	True
+bob-graham	democrat	terrorism	Half-True
+bernie-s	independent	income	Mostly True
+robby-mook	democrat	campaign-finance	Mostly True
+ben-carson	republican	debt	Mostly True
+hillary-clinton	democrat	polls	Mostly True
+donald-trump	republican	elections	Mostly True
+donald-trump	republican	sports	False
+bernie-s	independent	foreign-policy	Mostly False
+bernie-s	independent	campaign-finance	Mostly False
+bernie-s	independent	foreign-policy	Half-True
+bernie-s	independent	elections	Mostly False
+pat-mccrory	republican	gays-and-lesbians	Mostly False
+hillary-clinton	democrat	abortion	True
+hillary-clinton	democrat	social-security	Mostly False
+bernie-s	independent	economy	Mostly True
+hillary-clinton	democrat	candidates-biography	Mostly False
+bernie-s	independent	candidates-biography	Mostly True
+hillary-clinton	democrat	debates	Half-True
+jeff-bridges	activist	energy	False
+donald-trump	republican	history	False
+bernie-s	independent	environment	Mostly True
+hillary-clinton	democrat	crime	Half-True
+ted-cruz	republican	polls	Mostly False
+tom-price	republican	economy	Half-True
+bernie-s	independent	corporations	Mostly True
+bernie-s	independent	candidates-biography	Half-True
+hillary-clinton	democrat	guns	Half-True
+bernie-s	independent	candidates-biography	Mostly False
+new-day-america	organization	campaign-finance	False
+bernie-s	independent	candidates-biography	False
+hillary-clinton	democrat	elections	Mostly True
+barack-obama	democrat	health-care	Half-True
+donald-trump	republican	china	Half-True
+donald-trump	republican	china	Half-True
+bernie-s	independent	education	Mostly False
+hillary-clinton	democrat	corrections-and-updates	Half-True
+hillary-clinton	democrat	elections	Pants on Fire!
+donald-trump	republican	campaign-finance	False
+donald-trump	republican	legal-issues	Pants on Fire!
+donald-trump	republican	china	Mostly False
+hillary-clinton	democrat	afghanistan	True
+hillary-clinton	democrat	foreign-policy	Mostly True
+bernie-s	independent	candidates-biography	True
+paul-ryan	republican	foreign-policy	Mostly True
+donald-trump	republican	foreign-policy	False
+ted-cruz	republican	foreign-policy	False
+donald-trump	republican	foreign-policy	Half-True
+mitch-mcconnell	republican	congress	False
+joe-pitts	republican	drugs	True
+club-growth	none	drugs	False
+harry-reid	democrat	congress	Mostly True
+john-kasich	republican	elections	Mostly True
+mike-honda	democrat	history	True
+donald-trump	republican	foreign-policy	False
+ted-cruz	republican	economy	Mostly False
+hillary-clinton	democrat	diversity	True
+everytown-gun-safety	none	crime	Half-True
+donald-trump	republican	civil-rights	False
+ted-cruz	republican	civil-rights	True
+marco-rubio	republican	corrections-and-updates	True
+donald-trump	republican	economy	False
+ted-cruz	republican	trade	Mostly True
+donald-trump	republican	education	False
+hillary-clinton	democrat	immigration	Mostly True
+hillary-clinton	democrat	climate-change	False
+bernie-s	independent	diversity	Mostly True
+bernie-s	independent	immigration	Mostly True
+hillary-clinton	democrat	technology	Mostly False
+future45	republican	campaign-finance	Half-True
+keep-promise-1-pac	republican	health-care	False
+john-kasich	republican	economy	Half-True
+bernie-s	independent	polls	Mostly True
+right-rise	republican	candidates-biography	True
+bernie-s	independent	city-government	Mostly True
+bernie-s	independent	diversity	False
+hillary-clinton	democrat	congress	Half-True
+bernie-s	independent	jobs	Mostly False
+hillary-clinton	democrat	environment	Mostly True
+hillary-clinton	democrat	campaign-finance	Mostly True
+donald-trump	republican	history	Half-True
+mitt-romney	republican	candidates-biography	Full Flop
+tom-daschle	democrat	foreign-policy	Mostly False
+ted-cruz	republican	campaign-finance	Half-True
+donald-trump	republican	history	False
+donald-trump	republican	voting-record	Mostly True
+john-kasich	republican	polls	Mostly True
+donald-trump	republican	history	False
